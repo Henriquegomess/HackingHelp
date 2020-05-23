@@ -8,7 +8,7 @@ Hacking Help 2020 - Hacking Rio
 
 ## DESAFIO 1: Câncer Infantojuvenil 
 
-> "Como garantir que os profissionais de saúde dos postos e prontos-socorros públicos continuem atentos aos sintomas do câncer infantojuvenil no contexto da pandemia de Covid-19?”**
+> "Como garantir que os profissionais de saúde dos postos e prontos-socorros públicos continuem atentos aos sintomas do câncer infantojuvenil no contexto da pandemia de Covid-19?”
 
 ## Contexto atual:  Luiza Rudge Ger. Desenv Inst Desiderata
  
